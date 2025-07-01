@@ -15,5 +15,7 @@ It follows the **RV32I** instruction set and executes all instructions in a sing
 - Fully synthesizable design.
 - Simulated and verified using testbenches.
 
-
-
+NOTE:
+1)Byte Addressable Architecture
+2)In this we always delas with words so endianess is invisible in this RTL Design
+3)
